@@ -1,0 +1,10 @@
+{
+  "name": "activation-generator",
+  "version": "1.0.0",
+  "scripts": {
+    "deploy": "wrangler pages deploy dist"
+  },
+  "devDependencies": {
+    "wrangler": "3.78.10"
+  }
+}
